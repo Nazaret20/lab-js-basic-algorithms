@@ -18,7 +18,7 @@ if (hacker1.length > hacker2.length) {
     console.log(`Both have the same length! ${hacker1.length} characters.`);
 }
 
-//Iteration 3: Loops
+// Iteration 3: Loops
 name1 = ""
 for (character of hacker1.toUpperCase()) {
     name1 += character + ' '
